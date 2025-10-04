@@ -1,0 +1,7 @@
+{
+  "name": "AI Personal Weight Loss Coach",
+  "description": "A modern, sleek, and highly motivating AI-powered weight loss and fitness coach application. It personalizes the user's weight loss journey with custom plans, intelligent analysis, and gamification elements, providing an enjoyable and effective experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
